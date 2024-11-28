@@ -1,7 +1,7 @@
-Hello Cat
-Hello Cat
-Hello Dog
-Hello Dog
+Hello Cat and a dog
+Hello Cat and a dog
+Hello Dog and a cat
+Hello Dog and a cat
 Hello
 Hello
 Hello
